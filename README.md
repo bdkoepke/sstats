@@ -1,0 +1,2 @@
+# sstats
+Java Stream Statistics.
